@@ -41,4 +41,7 @@ Dashboard ini dibuat untuk menjawab beberapa pertanyaan bisnis berikut:
 Berikut merupakan tampilan dashboard yang dibuat menggunakan Microsoft Excel untuk memvisualisasikan hasil analisis data penjualan di toko sepeda.
 
 <p align="center">
-  <img src="https://github.com/humairaaryantik/Excel_Analytics_Dashboard/blob/e3fd443121066a7decfc485416f59c865980cfd8/Excel%20Dashboard/Dashboard.jpg" alt="image" width="800"/>
+  <img src="https://github.com/humairaaryantik/Bike-Stores-Sales-Dashboard/blob/220f7e87fe0b25713a6654c0fac0734ad5333f44/Bike%20Stores%20Sales%20Analysis/Dashboard%20Images.jpg" alt="image" width="800"/>
+
+### INSIGHT
+---
