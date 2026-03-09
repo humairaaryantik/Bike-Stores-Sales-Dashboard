@@ -1,14 +1,4 @@
-/*
---------------------------------------------------------------------
-© 2017 sqlservertutorial.net All Rights Reserved
---------------------------------------------------------------------
-Name   : BikeStores
-Link   : http://www.sqlservertutorial.net/load-sample-database/
-Version: 1.0
---------------------------------------------------------------------
-*/
-
-/*use BikeStores;*/
+/*BIKE STORES SQL DATABASES*/
 
 INSERT INTO production.brands(brand_id,brand_name)
 VALUES (1,'Electra'),
