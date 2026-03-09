@@ -43,5 +43,164 @@ Berikut merupakan tampilan dashboard yang dibuat menggunakan Microsoft Excel unt
 <p align="center">
   <img src="https://github.com/humairaaryantik/Bike-Stores-Sales-Dashboard/blob/220f7e87fe0b25713a6654c0fac0734ad5333f44/Bike%20Stores%20Sales%20Analysis/Dashboard%20Images.jpg" alt="image" width="800"/>
 
-### INSIGHT
+### KEY INSIGHT
+---
+
+#### 1️⃣ Annual Sales Trend
+
+Total revenue tahunan menunjukkan pola **fluktuatif dengan pertumbuhan kuat di 2017 lalu penurunan di 2018**.
+
+* **2016:** $270.9M
+* **2017:** $384.5M (**+41.9% YoY growth**)
+* **2018:** $202.4M (**-47.4% YoY decline**)
+
+**Insight**
+* Tahun **2017 merupakan peak performance** perusahaan.
+* Penurunan tajam di **2018** mengindikasikan kemungkinan:
+   - penurunan demand
+   - gangguan supply chain
+   - strategi penjualan/marketing yang berubah
+
+**Business Recommendation**
+- Analisis faktor yang menyebabkan **growth 2017** untuk direplikasi.
+- Investigasi penyebab **drop 2018** terutama pada periode setelah Q1.
+
+---
+
+#### 2️⃣ Monthly Sales Trend
+
+Penjualan bulanan menunjukkan **pola musiman (seasonality)**.
+
+**Insight**
+- Penjualan meningkat bertahap sepanjang **2016–2017**.
+- **Peak tertinggi terjadi sekitar awal 2018 (~$90M)**.
+- Setelah puncak tersebut terjadi **penurunan drastis hingga hampir nol pada bulan berikutnya**.
+
+**Business Recommendation**
+- Fokuskan **campaign marketing menjelang peak season**.
+- Perbaiki **inventory planning** untuk mengantisipasi lonjakan permintaan.
+
+---
+
+3️⃣ **Revenue by State**
+
+Distribusi revenue menunjukkan **ketergantungan pada beberapa state utama**.
+
+State dengan revenue tertinggi:
+
+1. New York
+2. California
+3. Texas
+
+**Insight**
+
+**New York merupakan kontributor terbesar** terhadap total revenue.
+
+**Business Recommendation**
+- Perkuat **market penetration di state dengan demand tinggi**.
+- Ekspansi distribusi ke **state dengan performa rendah tetapi potensi pasar besar**.
+
+---
+
+4️⃣ **Revenue by Product Category**
+
+10 Kategori produk dengan performa terbaik:
+
+| Category            | Revenue |
+| ------------------- | ------- |
+| Mountain Bikes      | $303M   |
+| Road Bikes          | $185M   |
+| Cruisers Bicycles   | $111M   |
+| Electric Bikes      | $102M   |
+| Cyclocross Bicycles | $80M    |
+
+**Insight**
+
+**Mountain Bikes mendominasi penjualan** dan menjadi core product.
+
+**Business Recommendation**
+
+* Prioritaskan **marketing & inventory untuk 10 produk sepeda terlaris**, khususnya Mountain Bikes
+* Evaluasi potensi growth pada **Electric Bikes** (tren pasar global meningkat), karna eco-friendly transportation. Jika perlu adakan campaign.
+
+---
+
+5️⃣ **Revenue Contribution by Store**
+
+Distribusi revenue antar toko:
+
+| Store            | Revenue             |
+| ---------------- | ------------------- |
+| Baldwin Bikes    | $582.6M             |
+| Santa Cruz Bikes | $179.0M   |
+| Rowlett Bikes    | $96.3M              |
+
+**Insight**
+
+* **Baldwin Bikes menyumbang mayoritas revenue perusahaan**.
+* Ketergantungan pada satu store cukup tinggi.
+
+**Business Recommendation**
+
+* Replikasi **strategi operasional atau merketing dari store Baldwin Bikes** ke store lain.
+* Tingkatkan performa **Rowlett Bikes** melalui promosi atau optimalisasi lokasi.
+
+---
+
+6️⃣ **Top Selling Products**
+
+Produk dengan penjualan tertinggi:
+
+| Product                  | Revenue |
+| ------------------------ | ------- |
+| Trek Slash 8 27.5 (2016) | $62M    |
+| Trek Conduit+            | $43M    |
+| Trek Fuel EX 29 (2016)   | $41M    |
+| Surly Straggler 650b     | $25M    |
+| Trek Domane SLR 6        | $24M    |
+
+**Insight**
+
+* Produk **brand Trek mendominasi top selling products**.
+* Segmen **mountain dan road bike premium** memiliki demand tinggi.
+
+**Business Recommendation**
+
+* Tingkatkan **partnership dengan brand Trek**.
+* Fokus pada **high-margin premium bikes**.
+
+---
+
+7️⃣ **Sales Representative Performance**
+
+Top sales representatives:
+
+| Sales Rep       | Performance     |
+| --------------- | --------------- |
+| Marcelene Boyer | Top performer   |
+| Venita Daniel   | High performer  |
+| Genna Serrano   | Mid performer   |
+| Mireya Copeland | Mid performer   |
+| Kali Vargas     | Lower performer |
+
+**Insight**
+
+* Terdapat **gap performa cukup besar antar sales rep**.
+* Dua sales rep teratas menyumbang sebagian besar penjualan.
+
+**Business Recommendation**
+
+* Gunakan **top performer sebagai benchmark**.
+* Terapkan **sales training dan incentive program** untuk meningkatkan performa tim.
+
+### OVERAL KEY
+---
+1. **2017 adalah tahun terbaik**, namun terjadi **penurunan signifikan di 2018**.
+2. Penjualan memiliki **pola musiman dengan peak demand tertentu**.
+3. **New York menjadi kontributor revenue terbesar**.
+4. **Mountain Bikes dan Road Bikes mendominasi kategori penjualan**.
+5. **Baldwin Bikes merupakan store paling profitable**.
+6. Produk dari **brand Trek mendominasi top selling products**.
+7. Terdapat **kesenjangan performa pada sales representatives** yang perlu dioptimalkan.
+
 ---
