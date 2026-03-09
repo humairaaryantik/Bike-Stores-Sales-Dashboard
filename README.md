@@ -14,16 +14,16 @@ Tujuan dari proyek ini adalah mengubah data penjualan menjadi informasi dan insi
 ### ALUR PROYEK
 ---
 1. Pengumpulan dan Pemahaman Data
-   Menggunakan dataset penjualan Bike Stores yang berisi berbagai informasi penjualan toko
+   Menggunakan dataset penjualan Bike Stores yang berisi berbagai informasi penjualan toko [(Lihat)](https://github.com/humairaaryantik/Bike-Stores-Sales-Dashboard/blob/0ebff7a7161ed17460e867752f6702f6c597b176/Bike%20Stores%20Sales%20Analysis/Sales%20Analysis%20SQL%20Databases.sql)
 2. Penyusunan Database
    Data diimpor dan disusun ke dalam database menggunakan MySQL dengan membangun relasi antar tabel 
-3. Analisis Data dengan SQL – Melakukan pengolahan dan agregasi data menggunakan query SQL untuk menghitung metrik penting seperti total revenue dan jumlah produk terjual
+3. Analisis Data dengan SQL – Melakukan pengolahan dan agregasi data menggunakan query SQL untuk menghitung metrik penting seperti total revenue dan jumlah produk terjual 
 4. Data Cleaning
    Dataset dibersihkan menggunakan Microsoft Excel untuk memastikan konsistensi format data dan kesiapan data untuk analisis lanjutan
 5. Analisis Pivot Table
    Menggunakan Pivot Table untuk merangkum data dan menganalisis pola penjualan berdasarkan waktu, wilayah, kategori produk, toko, dan sales representative
 6. Pembuatan Dashboard
-   Hasil analisis divisualisasikan dalam bentuk dashboard interaktif di Microsoft Excel untuk menampilkan insight bisnis dan mendukung pengambilan keputusan berbasis data.1. Data Cleaning dengan Excel
+   Hasil analisis divisualisasikan dalam bentuk dashboard interaktif di Microsoft Excel untuk menampilkan insight bisnis dan mendukung pengambilan keputusan berbasis data.1. Data Cleaning dengan Excel [(Lihat)](https://github.com/humairaaryantik/Bike-Stores-Sales-Dashboard/blob/0ebff7a7161ed17460e867752f6702f6c597b176/Bike%20Stores%20Sales%20Analysis/Excel%20Dashboard.xlsx)
 
 ### PERTANYAAN BISNIS
 ---
