@@ -1,4 +1,5 @@
-/*MYSQL QUERY SALES ANALYSIS/*
+/*MYSQL QUERY SALES ANALYSIS*/
+
 SELECT 
 	so.order_id,
     CONCAT(sc.first_name, ' ', sc.last_name) AS "customer",
