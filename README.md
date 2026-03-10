@@ -1,7 +1,10 @@
 </p><h1 align="center" = >DASHBOARD ANALISIS PENJUALAN TOKO SEPEDA </h1>
 
 <p align="center">
-  <img src="https://github.com/humairaaryantik/Bike-Stores-Sales-Dashboard/blob/220f7e87fe0b25713a6654c0fac0734ad5333f44/Bike%20Stores%20Sales%20Analysis/Dashboard%20Images.jpg" alt="image" width="800"/>
+  <img src="https://github.com/humairaaryantik/Bike-Stores-Sales-Dashboard/blob/2e2e4271b7714497cafc402dfa23440b95a7ae02/Bike%20Store%20Tableau%20Dashboard.png" width="800"/>
+  <br>
+  <em>Gambar 1. Dashboard Penjualan Bike Store menggunakan Tableau</em>
+</p>
 
 Dashboard ini merupakan proyek analisis data penjualan toko sepeda yang bertujuan untuk mengeksplorasi performa penjualan perusahaan melalui visualisasi data yang interaktif.
 
@@ -24,7 +27,8 @@ Dashboard ini membantu perusahaan dalam mengidentifikasi peluang pertumbuhan, me
 ### Tools
 ---
 - MySQL : Penyusunan database serta melakukan analisis data menggunakan query SQL.
-- Microsoft Excel : Proses data cleaning, analisis menggunakan Pivot Table, serta pembuatan dashboard dan visualisasi data.
+- Microsoft Excel : Proses data cleaning, analisis menggunakan Pivot Table, serta pembuatan dashboard sederhana
+- Tableau : Pengembangan dashboard interaktif dan visualisasi data tingkat lanjut.
 
 ### INFORMASI DATASET
 ---
@@ -63,7 +67,13 @@ Analisis dalam proyek ini bertujuan untuk menjawab beberapa pertanyaan bisnis be
 6. Analisis Pivot Table
    Menggunakan Pivot Table untuk merangkum data dan menganalisis pola penjualan berdasarkan waktu, wilayah, kategori produk, toko, dan sales representative
 7. Pembuatan Dashboard
-   Hasil analisis divisualisasikan dalam bentuk dashboard interaktif di Microsoft Excel untuk menampilkan insight bisnis dan mendukung pengambilan keputusan berbasis data [(Lihat)](https://github.com/humairaaryantik/Bike-Stores-Sales-Dashboard/blob/0ebff7a7161ed17460e867752f6702f6c597b176/Bike%20Stores%20Sales%20Analysis/Excel%20Dashboard.xlsx)
+   Hasil analisis divisualisasikan dalam bentuk dashboard interaktif di Microsoft Excel dan Tableau untuk menampilkan insight bisnis dan mendukung pengambilan keputusan berbasis data [(Lihat)](https://github.com/humairaaryantik/Bike-Stores-Sales-Dashboard/blob/0ebff7a7161ed17460e867752f6702f6c597b176/Bike%20Stores%20Sales%20Analysis/Excel%20Dashboard.xlsx)
+
+<p align="center">
+  <img src="https://github.com/humairaaryantik/Bike-Stores-Sales-Dashboard/blob/220f7e87fe0b25713a6654c0fac0734ad5333f44/Bike%20Stores%20Sales%20Analysis/Dashboard%20Images.jpg" alt="image" width="800" />
+ <br>
+  <em>Gambar 2. Dashboard Penjualan Bike Store menggunakan Ms.Excel</em>
+</p>
 
 ### INSIGHT UTAMA
 ---
